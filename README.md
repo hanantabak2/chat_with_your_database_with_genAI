@@ -7,7 +7,7 @@ It automatically picks the correct table based on your question.
 It converts your question from a human language to SQL code to do the analysis then returns the answer in human language.
 This project was done using OpenAI and LangChain.
 
-Read more about the project in the [Medium article](https://medium.com/@hanan.tabak/user-friendly-open-source-multi-agent-ai-business-consultant-on-crewai-and-streamlit-0f972feb1b74).
+Read more about the project in the [Medium article](https://medium.com/@hanan.tabak/chat-with-your-database-using-gen-ai-converting-english-to-sql-free-local-sample-database-is-ff2e7722bef7).
 
 
 
